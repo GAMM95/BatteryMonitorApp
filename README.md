@@ -31,4 +31,4 @@ Cuando el nivel de batería llega al 90%, se muestra una notificación como la s
 ---
 
 ## 📥 Descargar
-[Haz clic aquí para descargar BatteryMonitorApp.exe](./dist/BatteryMonitorApp.exe)
+[Haz clic aquí para descargar BatteryMonitorApp.exe](./dist/BatteryMonitor.exe)
